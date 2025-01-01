@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ritik Mishra
+- 👋 Hi, I’m @Ritik_Mishra
 - 👀 I’m interested in Anime and Coding
-- 🌱 I’m currently learning to code in python,C,Pandas,SQL,HTML,Matplotlib,Numpy.
-- 💞️ I’m looking to collaborate on anything, until it's unintersting.
+- 🌱 I’m currently learning Python, C, Pandas, SQL, HTML, Matplotlib, and  Numpy.
+- 💞️ I’m looking to collaborate on anything until it's uninteresting.
 - 📫 You Can Email Me at chootu3679@gmail.com and mr._.headshoter is my insta Username.
 - ✌  Trying to be better.
 <!---
