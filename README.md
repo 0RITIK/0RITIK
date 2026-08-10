@@ -17,7 +17,7 @@
 
 ## 🧠 Who I Am
 
-``typescript
+```typescript
 const ritik = {
   title: "AI Automation Engineer",
   stack: {
@@ -43,7 +43,7 @@ const ritik = {
   status: "Computer Science Engineering undergrad @ Pacific School of Engineering (GTU) — CGPA 8.48",
   openTo: "Data, AI & Automation internships",
 };
-``
+```
 
 <br/>
 
