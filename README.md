@@ -1,5 +1,5 @@
 ## This is my Personal account
-### • Work/Professional Account: [@ritik-exelance-it](https://github.com)
+### • Work/Professional Account: [@ritik-exelance-it](https://github.com/ritik-exelance-it)
 
 
 <div align="center">
