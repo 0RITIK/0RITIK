@@ -1,3 +1,7 @@
+## This is my Personal account
+### • Work/Professional Account: [@ritik-exelance-it](https://github.com)
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Hi%20There,%20I'm%20Ritik%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Automation%20Engineer&descAlignY=55&descSize=18" width="100%"/>
